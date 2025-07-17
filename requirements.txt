@@ -1,0 +1,6 @@
+streamlit
+crewai
+langchain
+PyPDF2
+langchain_community
+reportlab

@@ -1,0 +1,25 @@
+Legal:Mandatory:Confidentiality::Each party agrees to maintain the confidentiality of all proprietary or sensitive information disclosed under this agreement and not to disclose it without prior written consent, except as required by law.
+Legal:Mandatory:Governing Law::This agreement shall be governed by and construed in accordance with the laws of [Insert Jurisdiction].
+Legal:Mandatory:Termination::Either party may terminate this agreement by providing 30 days’ written notice, or immediately upon material breach by the other party.
+Legal:Mandatory:Dispute Resolution::Disputes shall be resolved through mediation, and if unresolved, shall be referred to arbitration in accordance with the Arbitration and Conciliation Act, 1996.
+Legal:Mandatory:Severability::If any provision of this agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+Legal:Mandatory:Entire Agreement::This agreement constitutes the entire agreement between the parties and supersedes all prior agreements or understandings.
+Legal:Mandatory:Notices::All notices shall be in writing and delivered to the parties at their respective addresses stated in this agreement or as otherwise notified.
+
+Legal:Optional:Indemnification::Each party agrees to indemnify and hold the other harmless from any claims, damages, or liabilities arising from their respective acts or omissions under this agreement.
+Legal:Optional:Intellectual Property::Any intellectual property developed independently prior to or during the term of this agreement shall remain the property of the respective party.
+Legal:Optional:Assignment::Neither party shall assign or transfer this agreement without the prior written consent of the other party.
+Legal:Optional:Force Majeure::Neither party shall be liable for failure to perform due to events beyond their reasonable control, including but not limited to acts of God, war, or natural disasters.
+Legal:Optional:Representations::Each party represents that it has the authority to enter into and perform its obligations under this agreement.
+
+Financial:Mandatory:Payment Terms::All payments are due within 30 days of invoice date. Late payments may result in service suspension until resolved.
+Financial:Mandatory:Taxes::All applicable taxes shall be borne by the client unless a valid exemption certificate is provided.
+Financial:Mandatory:Early Termination Fee::If the client terminates this agreement early without cause, they shall pay a termination fee equal to one month’s service charge.
+
+Financial:Optional:Reimbursement::Client shall reimburse all pre-approved out-of-pocket expenses incurred by the service provider, including travel and lodging, if applicable.
+Financial:Optional:Late Payment Penalty::Overdue invoices shall incur a late fee of 1.5% per month or the maximum rate permitted by law.
+Financial:Optional:Audit Rights::Client may audit service-related records with five (5) business days' notice, not more than once per calendar year.
+Financial:Optional:Milestone Payment::Payments shall be made according to mutually agreed milestones and acceptance criteria outlined in the SOW.
+Financial:Optional:Invoice Approval::All invoices must be approved by the client's designated representative prior to payment processing.
+Financial:Optional:Currency & Exchange Rate::All billing shall be made in INR, and the client shall bear any foreign exchange fluctuations.
+Financial:Optional:Default Interest::In the event of payment default, interest shall accrue at 12% per annum until the outstanding amount is settled.
